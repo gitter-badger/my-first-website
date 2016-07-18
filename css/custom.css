@@ -16,12 +16,14 @@ footer{
   background-color: #f74c3c;
   padding-top: 150px;
   padding-bottom: 30px;
+  position: relative;
 }
 
 #back-to-top{
   position: fixed;
   bottom: 20px;
   right: 20px;
+  position: absolute;
 }
 
 #back-to-top a{
