@@ -18,6 +18,16 @@ footer{
   padding-bottom: 30px;
 }
 
+#back-to-top{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+#back-to-top a{
+  color: #333;
+}
+
 #get-involved{
   background-color: #f5f5f5;
 }
