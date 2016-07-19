@@ -2,7 +2,7 @@
   <br>
   My first Bootstrap reponsive website
   <br>
-  <a href="https://doureydkhelalef.github.io/my-first-website/" target="_blank">Visit My Website</a>
+  <a href="https://daynox.github.io/my-first-website/" target="_blank">Visit My Website</a>
   <br>
   <br>
 </h1>
